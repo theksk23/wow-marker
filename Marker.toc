@@ -1,0 +1,5 @@
+## Interface: 11404
+## Title: NpcMarker
+## Notes: Target and mark NPC by name
+## Author: Sebastian
+NpcMarker.lua
